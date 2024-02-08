@@ -1,8 +1,8 @@
 ---
 title: The Sock Kingdom
 publishDate: 2023-05-31 00:00:00
-img: /assets/stock-4.jpg
-img_alt: Soft pink and baby blue water ripples together in a subtle texture.
+img: /assets/the-sock-kingdom.jpg
+img_alt: Wool socks on a table with a knitting journal.
 description: |
   An internationalized Nuxt 3 blog using Prismic locales.
 tags:

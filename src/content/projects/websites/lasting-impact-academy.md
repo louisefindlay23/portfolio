@@ -1,7 +1,7 @@
 ---
 title: Lasting Impact Academy
 publishDate: 2020-10-16 00:00:00
-img: /assets/stock-1.jpg
+img: /assets/lasting-impact-academy.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   Integrated WooCommerce and LearnDash to create a learning management system for bulk licenses, one-off fees and subscriptions, and group leader management.

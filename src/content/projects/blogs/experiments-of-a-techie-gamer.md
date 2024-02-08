@@ -1,8 +1,8 @@
 ---
 title: Experiments of a Techie Gamer
 publishDate: 2023-12-21 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/experiments-of-a-techie-gamer.jpeg
+img_alt: A Steam Deck showing the All Games tab
 description: |
   Writing about the trials and tribulations of creating the perfect handheld gaming setup on Substack
 tags:

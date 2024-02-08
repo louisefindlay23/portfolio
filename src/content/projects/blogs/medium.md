@@ -1,7 +1,7 @@
 ---
 title: Medium
 publishDate: 2022-06-30 00:00:00
-img: /assets/stock-1.jpg
+img: /assets/medium.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   Writing about full-stack web development, developer tools, and smart home software

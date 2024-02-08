@@ -1,8 +1,8 @@
 ---
 title: Gowanlea Nurseries
 publishDate: 2023-10-25 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/gowanlea-nurseries.jpg
+img_alt: A field of pink flowers
 description: |
   Redesigned Gowanlea Nurseries Shopify store from the ground up using a new theme
 tags:

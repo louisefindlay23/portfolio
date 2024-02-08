@@ -1,7 +1,7 @@
 ---
 title: Create Emoji Bot
 publishDate: 2022-09-26 00:00:00
-img: /assets/stock-4.jpg
+img: /assets/create-emoji-bot.png
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
   Empower users to create their own Discord emoji with Create Emoji bot

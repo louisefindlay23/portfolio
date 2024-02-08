@@ -1,8 +1,8 @@
 ---
 title: YouTube Community Bot
 publishDate: 2022-11-12 00:00:00
-img: /assets/stock-3.jpg
-img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
+img: /assets/youtube-community-bot.jpg
+img_alt: Red background with the words YouTube Community
 description: |
   Posts updates of a YouTube Channel's Community Posts to a Discord Server Channel with YouTube Community Bot.
 tags:
