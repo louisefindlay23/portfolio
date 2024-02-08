@@ -2,7 +2,7 @@
 title: Medium
 publishDate: 2022-06-30 00:00:00
 img: /assets/medium.png
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: The word Medium with three dots preceding it with a white background
 description: |
   Writing about full-stack web development, developer tools, and smart home software
 tags:

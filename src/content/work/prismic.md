@@ -1,8 +1,8 @@
 ---
 title: Technical Writer at Prismic
 publishDate: 2023-01-05 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/prismic.png
+img_alt: Prismic logo on a blue background
 description: |
   We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
 tags:

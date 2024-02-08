@@ -1,8 +1,8 @@
 ---
 title: Content Moderator at Section
 publishDate: 2020-06-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/section.png
+img_alt: Section logo on a green background
 description: |
   We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
 tags:

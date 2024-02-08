@@ -1,8 +1,8 @@
 ---
 title: GitCord Bot
 publishDate: 2021-07-28 00:00:00
-img: /assets/gitcord-bot-1.png
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/gitcord-bot.png
+img_alt: A GitHub Octocat with a Discord logo inside it
 description: |
   The ultimate Discord Bot that helps you manage your GitHub activity from Discord.
 tags:

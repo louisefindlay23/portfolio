@@ -2,7 +2,7 @@
 title: Colorflow Player
 publishDate: 2021-01-24 00:00:00
 img: /assets/colorflow-player.png
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: A CD with the letters CP surrounding it with a red background
 description: |
   Discover the most popular music streaming service, Spotify or Deezer with Colorflow Player, a music streaming app with ColorFlow UI that split tests these two services.
 tags:

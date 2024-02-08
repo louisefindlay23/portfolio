@@ -1,8 +1,8 @@
 ---
 title: Freelance Web Developer at Spyrath Dev
 publishDate: 2019-09-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/spyrath-dev.png
+img_alt: Dragon inside a browser window with an orange background
 description: |
   We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
 tags:

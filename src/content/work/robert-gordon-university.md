@@ -1,8 +1,8 @@
 ---
 title: Demonstrator at Robert Gordon University
 publishDate: 2021-09-18 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/rgu.png
+img_alt: RGU logo on a purple background
 description: |
   We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
 tags:
