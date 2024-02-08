@@ -1,14 +1,14 @@
 ---
-title: Colorflow Player
-publishDate: 2021-01-24 00:00:00
+title: Medium
+publishDate: 2022-06-30 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  Discover the most popular music streaming service, Spotify or Deezer with Colorflow Player, a music streaming app with ColorFlow UI that split tests these two services.
+  Writing about full-stack web development, developer tools, and smart home software
 tags:
-  - Node.js
-  - Web Application
-  - Development
+  - Writing
+  - Blog
+  - Gaming
 ---
 
 ## Level-two heading

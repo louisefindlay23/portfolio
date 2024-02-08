@@ -133,6 +133,20 @@ declare module 'astro:content' {
   collection: "projects";
   data: InferEntrySchema<"projects">
 } & { render(): Render[".md"] };
+"blogs/experiments-of-a-techie-gamer.md": {
+	id: "blogs/experiments-of-a-techie-gamer.md";
+  slug: "blogs/experiments-of-a-techie-gamer";
+  body: string;
+  collection: "projects";
+  data: InferEntrySchema<"projects">
+} & { render(): Render[".md"] };
+"blogs/medium.md": {
+	id: "blogs/medium.md";
+  slug: "blogs/medium";
+  body: string;
+  collection: "projects";
+  data: InferEntrySchema<"projects">
+} & { render(): Render[".md"] };
 "discord-bots/create-emoji-bot.md": {
 	id: "discord-bots/create-emoji-bot.md";
   slug: "discord-bots/create-emoji-bot";

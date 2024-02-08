@@ -1,14 +1,14 @@
 ---
-title: Colorflow Player
-publishDate: 2021-01-24 00:00:00
+title: Experiments of a Techie Gamer
+publishDate: 2023-12-21 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  Discover the most popular music streaming service, Spotify or Deezer with Colorflow Player, a music streaming app with ColorFlow UI that split tests these two services.
+  Writing about the trials and tribulations of creating the perfect handheld gaming setup on Substack
 tags:
-  - Node.js
-  - Web Application
-  - Development
+  - Writing
+  - Blog
+  - Gaming
 ---
 
 ## Level-two heading
