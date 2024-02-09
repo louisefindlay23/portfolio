@@ -25,4 +25,4 @@ Won the Kubernetes Hackathon.
 
 <a href="https://github.com/section-engineering-education/engineering-education" target="_blank">![EngEd Community Badges](/assets/enged-community-badges.png)</a>
 
-Read my future technical tutorials on <a href="/projects/medium">Medium</a>.
+Read more of my technical tutorials on <a href="/projects/blogs/medium/">Medium</a>.
