@@ -1,29 +1,8 @@
 ---
-import Icon from "./Icon.astro";
-import type { iconPaths } from "./IconPaths";
+import { Icon } from "astro-icon/components";
 
-const textLinks: { label: string; href: string }[] = [
-  { label: "Home", href: "/" },
-  { label: "Work", href: "/work/" },
-  { label: "Projects", href: "/projects/" },
-  { label: "Education", href: "/education/" },
-  { label: "Skills", href: "/skills/" },
-];
-
-const iconLinks: {
-  label: string;
-  href: string;
-  icon: keyof typeof iconPaths;
-}[] = [
-  { label: "GitHub", href: "https://github.com/me", icon: "github-logo" },
-  { label: "Spyrath Dev", href: "https://spyrath.dev", icon: "github-logo" },
-  { label: "Medium", href: "https://github.com/me", icon: "github-logo" },
-  {
-    label: "Experiments of a Techie Gamer",
-    href: "https://github.com/me",
-    icon: "github-logo",
-  },
-];
+const pathname = new URL(Astro.request.url).pathname;
+const currentPath = pathname.slice(1);
 ---
 
 <nav>
@@ -36,83 +15,92 @@ const iconLinks: {
       <template>
         <button class="menu-button" aria-expanded="false">
           <span class="sr-only">Menu</span>
-          <Icon icon="list" />
+          <Icon name="mdi:menu" />
         </button>
       </template>
     </menu-button>
   </div>
   <noscript>
     <ul class="nav-items">
-      {
-        textLinks.map(({ label, href }) => (
-          <li>
-            <a
-              aria-current={Astro.url.pathname === href}
-              class:list={[
-                "link",
-                {
-                  active:
-                    Astro.url.pathname === href ||
-                    (href !== "/" && Astro.url.pathname.startsWith(href)),
-                },
-              ]}
-              href={href}
-            >
-              {label}
-            </a>
-          </li>
-        ))
-      }
+      <li>
+        <a class="link" href="/"> Home</a>
+        <a class="link" href="/work/"> Work</a>
+        <a class="link" href="/projects/"> Projects</a>
+        <a class="link" href="/skills/"> Skills</a>
+      </li>
     </ul>
-  </noscript>
-  <noscript>
-    <div class="menu-footer">
-      <div class="socials">
-        {
-          iconLinks.map(({ href, icon, label }) => (
-            <a href={href} class="social">
-              <span class="sr-only">{label}</span>
-              <Icon icon={icon} />
-            </a>
-          ))
-        }
-      </div>
-    </div>
   </noscript>
   <div id="menu-content" hidden>
     <ul class="nav-items">
-      {
-        textLinks.map(({ label, href }) => (
-          <li>
-            <a
-              aria-current={Astro.url.pathname === href}
-              class:list={[
-                "link",
-                {
-                  active:
-                    Astro.url.pathname === href ||
-                    (href !== "/" && Astro.url.pathname.startsWith(href)),
-                },
-              ]}
-              href={href}
-            >
-              {label}
-            </a>
-          </li>
-        ))
-      }
+      <li>
+        <a class={currentPath === "" ? "active link" : "link"} href="/">
+          Home</a
+        >
+      </li>
+      <li>
+        <a
+          class={currentPath === "work/" ? "active link" : "link"}
+          href="/work/"
+        >
+          Work</a
+        >
+      </li>
+      <li>
+        <a
+          class={currentPath === "projects/" ? "active link" : "link"}
+          href="/projects/"
+        >
+          Projects</a
+        >
+      </li>
+      <li>
+        <a
+          class={currentPath === "about/" ? "active link" : "link"}
+          href="/about/"
+        >
+          About</a
+        >
+      </li>
     </ul>
-    <div class="menu-footer">
-      <div class="socials">
-        {
-          iconLinks.map(({ href, icon, label }) => (
-            <a href={href} class="social">
-              <span class="sr-only">{label}</span>
-              <Icon icon={icon} />
-            </a>
-          ))
-        }
-      </div>
+  </div>
+  <div class="menu-footer">
+    <div class="socials">
+      <a
+        href="https://www.linkedin.com/in/louise-findlay23/"
+        target="_blank"
+        class="social"
+      >
+        <span class="sr-only">LinkedIn</span>
+        <Icon name="mdi:linkedin" />
+      </a>
+      <a
+        href="https://github.com/louisefindlay23"
+        target="_blank"
+        class="social"
+      >
+        <span class="sr-only">GitHub</span>
+        <Icon name="mdi:github-box" />
+      </a>
+      <a href="https://spyrath.dev" target="_blank" class="social">
+        <span class="sr-only">Spyrath Dev</span>
+        <Icon name="mdi:wordpress" />
+      </a>
+      <a
+        href="https://medium.com/@louisefindlay23"
+        target="_blank"
+        class="social"
+      >
+        <span class="sr-only">Medium</span>
+        <Icon name="mdi:medium" />
+      </a>
+      <a
+        href="https://experimentsofatechiegamer.substack.com/"
+        target="_blank"
+        class="social"
+      >
+        <span class="sr-only">Experiments of a Techie Gamer</span>
+        <Icon name="mdi:newspaper-variant-outline" />
+      </a>
     </div>
   </div>
 </nav>
@@ -263,7 +251,12 @@ const iconLinks: {
 
   .social:hover,
   .social:focus {
-    color: var(--accent-text-over);
+    color: var(--accent-light);
+  }
+
+  [data-icon] {
+    width: 1.33em;
+    height: 1.33em;
   }
 
   @media (min-width: 50em) {

@@ -1,12 +1,12 @@
 ---
 import { getCollection } from "astro:content";
+import { Icon } from "astro-icon/components";
 
 import BaseLayout from "../layouts/BaseLayout.astro";
 
 import CallToAction from "../components/CallToAction.astro";
 import Grid from "../components/Grid.astro";
 import Hero from "../components/Hero.astro";
-import Icon from "../components/Icon.astro";
 import Pill from "../components/Pill.astro";
 import PortfolioPreview from "../components/PortfolioPreview.astro";
 
@@ -32,11 +32,11 @@ const work = (await getCollection("work"))
           align="start"
         >
           <div class="roles">
-            <Pill><Icon icon="code" size="1.33em" /> Web Developer</Pill>
+            <Pill><Icon name="mdi:code" /> Web Developer</Pill>
             <Pill>
-              <Icon icon="pencil-line" size="1.33em" /> Technical Writer
+              <Icon name="mdi:pencil" /> Technical Writer
             </Pill>
-            <Pill><Icon icon="code" size="1.33em" /> Educator</Pill>
+            <Pill><Icon name="mdi:school" /> Educator</Pill>
           </div>
         </Hero>
 
@@ -52,31 +52,6 @@ const work = (await getCollection("work"))
     </div>
 
     <main class="wrapper stack gap-20 lg:gap-48">
-      <section class="section with-background with-cta">
-        <header class="section-header stack gap-2 lg:gap-4">
-          <h3>Featured Projects</h3>
-        </header>
-
-        <div class="gallery">
-          <Grid variant="offset">
-            {
-              projects.map((project) => (
-                <li>
-                  <PortfolioPreview project={project} />
-                </li>
-              ))
-            }
-          </Grid>
-        </div>
-
-        <div class="cta">
-          <CallToAction href="/projects/">
-            View All
-            <Icon icon="arrow-right" size="1.2em" />
-          </CallToAction>
-        </div>
-      </section>
-
       <section class="section with-background with-cta">
         <header class="section-header stack gap-2 lg:gap-4">
           <h3>Featured Work</h3>
@@ -97,7 +72,31 @@ const work = (await getCollection("work"))
         <div class="cta">
           <CallToAction href="/work/">
             View All
-            <Icon icon="arrow-right" size="1.2em" />
+            <Icon name="mdi:arrow-right" />
+          </CallToAction>
+        </div>
+      </section>
+      <section class="section with-background with-cta">
+        <header class="section-header stack gap-2 lg:gap-4">
+          <h3>Featured Projects</h3>
+        </header>
+
+        <div class="gallery">
+          <Grid variant="offset">
+            {
+              projects.map((project) => (
+                <li>
+                  <PortfolioPreview project={project} />
+                </li>
+              ))
+            }
+          </Grid>
+        </div>
+
+        <div class="cta">
+          <CallToAction href="/projects/">
+            View All
+            <Icon name="mdi:arrow-right" />
           </CallToAction>
         </div>
       </section>
@@ -117,6 +116,11 @@ const work = (await getCollection("work"))
 
   .roles {
     display: none;
+  }
+
+  [data-icon] {
+    width: 1.33em;
+    height: 1.33em;
   }
 
   .hero img {

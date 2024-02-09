@@ -1,11 +1,11 @@
 ---
 import { type CollectionEntry, getCollection } from "astro:content";
+import { Icon } from "astro-icon/components";
 
 import BaseLayout from "../../layouts/BaseLayout.astro";
 
 import ContactCTA from "../../components/ContactCTA.astro";
 import Hero from "../../components/Hero.astro";
-import Icon from "../../components/Icon.astro";
 import Pill from "../../components/Pill.astro";
 
 interface Props {
@@ -30,7 +30,7 @@ const { Content } = await entry.render();
       <header>
         <div class="wrapper stack gap-2">
           <a class="back-link" href="/projects/"
-            ><Icon icon="arrow-left" /> Projects</a
+            ><Icon name="mdi:arrow-left" /> Projects</a
           >
           <Hero title={entry.data.title} align="start">
             <div class="details">
