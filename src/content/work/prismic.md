@@ -4,32 +4,35 @@ publishDate: 2023-01-05 00:00:00
 img: /assets/prismic.png
 img_alt: Prismic logo on a blue background
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Created the first learning objective and reduced the documentation user feedback backlog by 50%.
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - Writing
+  - CMS
+  - Remote
 ---
 
-## Level-two heading
+## Achievements
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+Created and updated product documentation across technical references, content manager guides, core concepts, frameworks, and how-to articles.
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+Developed new documentation such as Repository API technical reference and Taxonomies how-to. Performed significant updates to documentation such as the combining several GraphQL articles into one technical reference.
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+Managed documentation user feedback, reducing the backlog by 50%.
 
-### Level-three heading
+Created the first learning objective and helped to develop a guide on creating learning objectives for all documentation.
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+Developed several Next and Nuxt sites to create new documentation, test user feedback, and keep up to date with product developments.
 
-### Level-three heading
+## Featured Articles
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+<a href="https://prismic.io/docs/taxonomies-nextjs" target="_blank">![Create Taxonomies with Next.js](https://media.licdn.com/dms/image/sync/D4E27AQE_XTfXnvkBjw/articleshare-shrink_800/0/1706547967340?e=1708106400&v=beta&t=xGECqw6nnjdga8G891P6BF0Bp10UAmmOYCnjXSWmnAU)</a>
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+Created a new how-to article for creating Taxonomies with Next.js and Prismic.
 
-#### Level-four heading
+Explained the complex process of how to create, fetch, route, and display an extensible taxonomy system in an easy to understand step-by-step format.
 
-- We noted this
-- And also this other point
+<a href="https://prismic.io/docs/graphql-technical-reference" target="_blank">![GraphQL API Technical Reference](https://media.licdn.com/dms/image/sync/D4E27AQGWDiSv_Hl7ww/articleshare-shrink_800/0/1706547966912?e=1708106400&v=beta&t=-c0tqxiibuQ97DA5eH-xcaeGdwmeqNceXbm_l2qUdB0)</a>
+
+Consolidated the previous GraphQL documentation into a single API reference.
+
+Provided greater detail on how to construct a GraphQL query with Prismic, an API definition of the fields and arguments, and how to use unions to query slices, links, and content relationships.

@@ -2,13 +2,13 @@
 title: Pre-Fellow at Major League Hacking
 publishDate: 2021-07-02 00:00:00
 img: /assets/major-league-hacking.png
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: The words Major League Hacking on a blue background
 description: |
   We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - Development
+  - Website
+  - Remote
 ---
 
 ## Level-two heading
