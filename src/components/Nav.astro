@@ -1,6 +1,5 @@
 ---
 import Icon from "./Icon.astro";
-import ThemeToggle from "./ThemeToggle.astro";
 import type { iconPaths } from "./IconPaths";
 
 const textLinks: { label: string; href: string }[] = [
@@ -113,10 +112,6 @@ const iconLinks: {
             </a>
           ))
         }
-      </div>
-
-      <div class="theme-toggle">
-        <ThemeToggle />
       </div>
     </div>
   </div>
@@ -271,12 +266,6 @@ const iconLinks: {
     color: var(--accent-text-over);
   }
 
-  .theme-toggle {
-    display: flex;
-    align-items: center;
-    height: calc(var(--icon-size) + 2 * var(--icon-padding));
-  }
-
   @media (min-width: 50em) {
     nav {
       display: grid;
@@ -328,7 +317,7 @@ const iconLinks: {
 
     .link:hover,
     .link:focus {
-      color: var(--gray-100);
+      color: var(--accent-regular);
       background-color: var(--accent-subtle-overlay);
     }
 
