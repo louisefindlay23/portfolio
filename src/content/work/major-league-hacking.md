@@ -19,6 +19,13 @@ Won a Special Contributions award for my work on the Hugo portfolio site, creati
 
 Developed a Discord bot to save developers' time and improve communication between messaging platforms and GitHub. Integrated the GitHub API with our team's bot to allow developers to communicate on Discord and create, edit and comment on GitHub issues, PRs, and standup notes. Deployed to Linode and managed with PM2.
 
-### GitHub Repository
+<!-- ## Featured Links
 
-<a href="https://github.com/MLH-Fellowship/gitcord-bot" target="_blank">![Github Repository](/assets/gitcord-bot-server.png)</a>
+[![View the Repository](https://api.iconify.design/mdi:github-box.svg)](https://github.com/GitCord/GitCord)
+
+<div class="button">
+  <a href="https://github.com/MLH-Fellowship/gitcord-bot" target="_blank">
+    <img src="https://api.iconify.design/mdi:github-box.svg" alt="GitHub logo" />
+    View the Repository
+  </a>
+</div> -->

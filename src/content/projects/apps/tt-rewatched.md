@@ -11,12 +11,23 @@ tags:
   - Development
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+TT Rewatched puts the latest invasion and field office data from Toontown Rewritten on your wrist to provide a distraction-free, glanceable environment to keep you up to date and focused on the game you love.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Find you're staring at your web browser more than the game itself? Get back into Toontown with the only watchOS Toontown Rewritten tracker. Running around all the time because you forget which cog types appear the most on what streets? Check out the Street Cogs feature which lists cog percentages for every street.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+## Featured Links
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+[<img src="https://github.com/louisefindlay23/Toontown-Rewatched/assets/26024131/9cdd8887-5071-4187-8eff-2c986e6125dc" alt="Download TT Rewatched on the App Store">](https://apps.apple.com/app/ttr-rewatched/id6475893578)
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+[Discover the GitHub repository](https://github.com/louisefindlay23/Toontown-Rewatched)
+
+## App Screenshots
+
+![TT Rewatched - Home Screen](https://github.com/louisefindlay23/Toontown-Rewatched/assets/26024131/6ba5e171-07ce-47f6-b7ad-f0a401a556de)
+![TT Rewatched - Invasions Screen](https://github.com/louisefindlay23/Toontown-Rewatched/assets/26024131/55aad03c-7595-4df6-81ce-17ebdbd86bda)
+![TT Rewatched - Invasion Screen](https://github.com/louisefindlay23/Toontown-Rewatched/assets/26024131/6289a06a-bbb8-49c7-a996-54afb767f738)
+![TT Rewatched - Field Offices Screen](https://github.com/louisefindlay23/Toontown-Rewatched/assets/26024131/66af2549-5a81-43d0-84c0-d78ebd3fa01b)
+![TT Rewatched - Field Office Screen](https://github.com/louisefindlay23/Toontown-Rewatched/assets/26024131/6e1a7421-defe-4211-b194-48277072bafe)
+![TT Rewatched - Neighborhoods Screen](https://github.com/louisefindlay23/Toontown-Rewatched/assets/26024131/80d3d006-4505-48ad-abde-8525418c3a5f)
+![TT Rewatched - Street Screen](https://github.com/louisefindlay23/Toontown-Rewatched/assets/26024131/04090e43-461c-4c63-a194-7e4a643295ed)
+![TT Rewatched - Street Cogs Screen](https://github.com/louisefindlay23/Toontown-Rewatched/assets/26024131/2a5da4b7-09ff-493c-b629-81a84ab0d66c)

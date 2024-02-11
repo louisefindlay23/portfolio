@@ -105,10 +105,13 @@ const { Content } = await entry.render();
     margin: 1.5rem 0;
   }
 
+  .content :global(h2) {
+    font-size: var(--text-3xl);
+  }
+
   .content :global(img) {
     border-radius: 1.5rem;
     box-shadow: var(--shadow-sm);
-    background: var(--gradient-subtle);
     border: 1px solid var(--gray-800);
   }
 
@@ -135,6 +138,19 @@ const { Content } = await entry.render();
   .content :global(a:focus) {
     text-decoration-color: currentColor;
   }
+
+  /*   :global(.button) {
+    display: flex;
+    align-items: center;
+  }
+
+  :global (.button) > a {
+    padding: 5% 10%;
+    border: 1px solid black;
+  }
+
+  :global(.button) :global(img) {
+    width: 10%; */
 
   @media (min-width: 50em) {
     .back-link {
