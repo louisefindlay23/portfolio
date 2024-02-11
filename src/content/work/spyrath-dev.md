@@ -18,3 +18,5 @@ Build client's sites using WordPress and Shopify to easily create branded design
 Provide ongoing support through website care plans to ensure sites continue to be fast, updated, and secure.
 
 Publish guides to empower non-technical users to learn more about their websites and other technical areas such as email hosting and domains. Also write about useful developer tools and self-hosting applications.
+
+Visit [Spyrath Dev](https://spyrath.dev/) to discover my freelance work.
