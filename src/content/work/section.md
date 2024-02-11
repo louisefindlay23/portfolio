@@ -9,6 +9,13 @@ tags:
   - Writing
   - Computing
   - Remote
+links:
+  - icon: "mdi:github"
+    url: "https://github.com/louisefindlay23/engineering-education"
+    text: "GitHub Repository"
+  - icon: "mdi:earth"
+    url: "/projects/blogs/medium"
+    text: "More Articles"
 ---
 
 ## Achievements
@@ -24,5 +31,3 @@ Became one of the first Content Moderators to oversee the entire publication pro
 Won the Kubernetes Hackathon.
 
 <a href="https://github.com/section-engineering-education/engineering-education" target="_blank">![EngEd Community Badges](/assets/enged-community-badges.png)</a>
-
-Read more of my technical tutorials on <a href="/projects/blogs/medium/">Medium</a>.

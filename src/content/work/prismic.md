@@ -9,6 +9,13 @@ tags:
   - Writing
   - CMS
   - Remote
+links:
+  - icon: "mdi:earth"
+    url: "https://prismic.io/docs"
+    text: "Documentation Website"
+  - icon: "mdi:forum"
+    url: "https://community.prismic.io/u/louise.findlay/activity"
+    text: "Forum Profile"
 ---
 
 ## Achievements
