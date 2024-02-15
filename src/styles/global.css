@@ -162,6 +162,10 @@ h5 {
   padding-inline: 1.5rem;
 }
 
+.flex {
+  display: flex;
+}
+
 .stack {
   display: flex;
   flex-direction: column;

@@ -51,6 +51,15 @@ const { Content } = await entry.render();
           }
           <div class="content">
             <Content />
+            {entry.data.links ? <h2>Links</h2> : null}
+            {
+              entry.data.links?.map((link) => (
+                <a href={link.url} target="_blank" class="button">
+                  <Icon name={link.icon} width="64" height="64" />
+                  {link.text}
+                </a>
+              ))
+            }
           </div>
         </div>
       </main>
@@ -138,6 +147,34 @@ const { Content } = await entry.render();
   .content :global(a:hover),
   .content :global(a:focus) {
     text-decoration-color: currentColor;
+  }
+
+  :global(.flex) :global(img) {
+    width: 50%;
+    height: 50%;
+  }
+
+  .button {
+    display: inline-flex;
+    align-items: center;
+    padding: 2.5% 5%;
+    background: var(--accent-regular);
+    color: var(--accent-text-over);
+    border-radius: 20px;
+    font-size: var(--text-lg);
+    text-align: center;
+  }
+
+  .button:hover {
+    background: var(--accent-light);
+  }
+
+  .button svg {
+    margin-right: 2.5%;
+  }
+
+  .button:first-of-type {
+    margin-right: 5%;
   }
 
   @media (min-width: 50em) {
