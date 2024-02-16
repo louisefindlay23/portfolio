@@ -1,0 +1,51 @@
+---
+import Hero from "../components/Hero.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="Contact Louise Findlay" description="Contact Louise Findlay">
+  <Hero title="Send Me a Message" />
+  <form name="contact" action="/message-sent" method="POST" data-netlify="true">
+    <label for="name">Name</label>
+    <input type="text" name="name" placeholder="Enter your name" />
+    <label for="email">Email</label>
+    <input type="email" name="email" placeholder="Enter your email address" />
+    <label for="message">Message</label>
+    <textarea name="message" placeholder="Enter your message" rows="5"
+    ></textarea>
+    <input type="submit" value="Submit" />
+  </form>
+</BaseLayout>
+
+<style>
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+  }
+
+  label {
+    margin: 1% 0;
+  }
+
+  input,
+  textarea {
+    padding: 1% 5%;
+    border-radius: 5px;
+    background: var(--accent-regular);
+    color: var(--accent-text-over);
+    font: var(--font-brand);
+  }
+
+  input:focus,
+  input:hover,
+  textarea:hover {
+    background: var(--accent-light);
+  }
+
+  input[type="submit"] {
+    margin: 5% 0;
+    cursor: pointer;
+  }
+</style>
