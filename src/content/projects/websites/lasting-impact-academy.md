@@ -21,5 +21,8 @@ Lasting Impact Academy were looking for a learning management system that suppor
 
 ## Solution
 
-Our research showed no hosted platform could support their group leader management model so I developed a custom LearnDash and WooCommerce platform that enabled group leaders to manage their own employees training, buy bulk licenses and pay a one-off fee and subscription to the platform.
+My research showed no hosted platform could support their group leader management model so I developed a custom LearnDash and WooCommerce platform that enabled group leaders to manage their own employees training, buy bulk licenses and pay a one-off fee and subscription to the platform.
 
+## Screenshot
+
+<a href="https://lastingimpactacademy.com" target="_blank">![Lasting Impact Academy Training Programmes](/assets/lasting-impact-academy-training-programmes.png)</a>

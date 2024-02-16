@@ -27,3 +27,7 @@ During the Major League Hacking Pre-Fellowship, I noticed a documentation proble
 We created GitCord Bot to cross-post our Discord messages to GitHub using Discord.js and Octokit.js. 
 
 I developed the GitHub API integration and bot commands to post comments on GitHub issues and PRs, post and edit standup notes in GitHub organizations, and create and manage GitHub projects.
+
+## Screenshot
+
+![GitCord Bot PR Comment](/assets/gitcord-bot-github-comment.png)

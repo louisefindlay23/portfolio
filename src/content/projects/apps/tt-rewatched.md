@@ -27,7 +27,7 @@ Find you're staring at your web browser more than the game itself? Get back into
 ## Screenshots
 
 <div class="flex">
-  <img src="https://github.com/louisefindlay23/Toontown-Rewatched/assets/26024131/6ba5e171-07ce-47f6-b7ad-f0a401a556de" alt="TT Rewatched Home Screen" />
-  <img src="https://github.com/louisefindlay23/Toontown-Rewatched/assets/26024131/55aad03c-7595-4df6-81ce-17ebdbd86bda" alt="TT Invasions Screen" />
-  <img src="https://github.com/louisefindlay23/Toontown-Rewatched/assets/26024131/6289a06a-bbb8-49c7-a996-54afb767f738" alt="TT Rewatched - Invasion Screen"/>
+  <img src="/assets/tt-rewatched-home-screen.png" alt="TT Rewatched Home Screen" />
+  <img src="/assets/tt-rewatched-invasions-screen.png" alt="TT Invasions Screen" />
+  <img src="/assets/tt-rewatched-invasion-screen.png" alt="TT Rewatched - Invasion Screen"/>
 </div>

@@ -23,3 +23,11 @@ links:
 Colorflow Player is a Node.js music streaming app (Spotify and Deezer) where the color of the album view and now playing screen changes to match the predominate color of the album artwork which is called ColorFlow.
 
 I developed Colorflow Player using Node.js, Express, MongoDB, and EJS. I used Express Session with MongoDB as the session storage for the analytics data and Passport Local for the user accounts.
+
+## Spotify
+
+![Colorflow Player Spotify Search Results](/assets/colorflow-player-spotify.png)
+
+## Deezer
+
+![Colorflow Player Deezer Search Results](/assets/colorflow-player-deezer.png)
