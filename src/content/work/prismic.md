@@ -32,13 +32,13 @@ Developed several Next and Nuxt sites to create new documentation, test user fee
 
 ## Featured Articles
 
-<a href="https://prismic.io/docs/taxonomies-nextjs" target="_blank">![Create Taxonomies with Next.js](https://media.licdn.com/dms/image/sync/D4E27AQE_XTfXnvkBjw/articleshare-shrink_800/0/1706547967340?e=1708106400&v=beta&t=xGECqw6nnjdga8G891P6BF0Bp10UAmmOYCnjXSWmnAU)</a>
+<a href="https://prismic.io/docs/taxonomies-nextjs" target="_blank">![Create Taxonomies with Next.js](/assets/taxonomies-prismic.jpg)</a>
 
 Created a new how-to article for creating Taxonomies with Next.js and Prismic.
 
 Explained the complex process of how to create, fetch, route, and display an extensible taxonomy system in an easy to understand step-by-step format.
 
-<a href="https://prismic.io/docs/graphql-technical-reference" target="_blank">![GraphQL API Technical Reference](https://media.licdn.com/dms/image/sync/D4E27AQGWDiSv_Hl7ww/articleshare-shrink_800/0/1706547966912?e=1708106400&v=beta&t=-c0tqxiibuQ97DA5eH-xcaeGdwmeqNceXbm_l2qUdB0)</a>
+<a href="https://prismic.io/docs/graphql-technical-reference" target="_blank">![GraphQL API Technical Reference](/assets/graphql-prismic.jpg)</a>
 
 Consolidated the previous GraphQL documentation into a single API reference.
 
