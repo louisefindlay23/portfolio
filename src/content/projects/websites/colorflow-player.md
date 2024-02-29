@@ -1,7 +1,7 @@
 ---
 title: Colorflow Player
 publishDate: 2021-01-24 00:00:00
-img: /assets/colorflow-player.png
+img: /src/img/colorflow-player.png
 img_alt: A CD with the letters CP surrounding it with a red background
 description: |
   Discover the most popular music streaming service, Spotify or Deezer with Colorflow Player, a music streaming app with ColorFlow UI that split tests these two services.
@@ -26,8 +26,8 @@ I developed Colorflow Player using Node.js, Express, MongoDB, and EJS. I used Ex
 
 ## Spotify
 
-![Colorflow Player Spotify Search Results](/assets/colorflow-player-spotify.png)
+![Colorflow Player Spotify Search Results](../../../img/colorflow-player-spotify.png)
 
 ## Deezer
 
-![Colorflow Player Deezer Search Results](/assets/colorflow-player-deezer.png)
+![Colorflow Player Deezer Search Results](../../../img/colorflow-player-deezer.png)

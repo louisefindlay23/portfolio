@@ -1,7 +1,7 @@
 ---
 title: Demonstrator at Robert Gordon University
 publishDate: 2021-09-18 00:00:00
-img: /assets/rgu.png
+img: /src/img/rgu.png
 img_alt: RGU logo on a purple background
 description: |
   Assisted the teaching team in delivering labs for the School of Computing’s undergraduate programme.

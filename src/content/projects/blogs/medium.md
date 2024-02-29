@@ -1,7 +1,7 @@
 ---
 title: Medium
 publishDate: 2022-06-30 00:00:00
-img: /assets/medium.png
+img: /src/img/medium.png
 img_alt: The word Medium with three dots preceding it with a white background
 description: |
   Writing about full-stack web development, developer tools, and smart home software
@@ -23,4 +23,4 @@ My technical tutorial, How to Develop and Deploy Your First Full-Stack Web App r
 
 ## Featured Article
 
-<a href="https://medium.com/@louisefindlay23/converting-a-static-site-to-a-dynamic-node-js-web-app-a0dea5de6712" target="_blank">![Converting a Static Site to a Dynamic Node.js Web App article](/assets/medium-article.png)</a>
+<a href="https://medium.com/@louisefindlay23/converting-a-static-site-to-a-dynamic-node-js-web-app-a0dea5de6712" target="_blank">![Converting a Static Site to a Dynamic Node.js Web App article](../../../img/medium-article.png)</a>

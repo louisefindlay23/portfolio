@@ -1,7 +1,7 @@
 ---
 title: Lasting Impact Academy
 publishDate: 2020-10-16 00:00:00
-img: /assets/lasting-impact-academy.png
+img: /src/img/lasting-impact-academy.png
 img_alt: A meteor wearing a mortarboard with grey circles underneath and a blue background
 description: |
   Integrated WooCommerce and LearnDash to create a learning management system for bulk licenses, one-off fees and subscriptions, and group leader management.
@@ -25,4 +25,4 @@ My research showed no hosted platform could support their group leader managemen
 
 ## Screenshot
 
-<a href="https://lastingimpactacademy.com" target="_blank">![Lasting Impact Academy Training Programmes](/assets/lasting-impact-academy-training-programmes.png)</a>
+<a href="https://lastingimpactacademy.com" target="_blank">![Lasting Impact Academy Training Programmes](../../../img/lasting-impact-academy-training-programmes.png)</a>

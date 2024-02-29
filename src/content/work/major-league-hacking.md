@@ -1,7 +1,7 @@
 ---
 title: Pre-Fellow at Major League Hacking
 publishDate: 2021-07-02 00:00:00
-img: /assets/major-league-hacking.png
+img: /src/img/major-league-hacking.png
 img_alt: The words Major League Hacking on a blue background
 description: |
   Won a Special Contributions award for assisting my team with doubt and code review sessions.
@@ -28,4 +28,4 @@ Developed a Discord bot to save developers' time and improve communication betwe
 
 ## Project
 
-<a href="/projects/discord-bots/gitcord-bot">![GitCord Bot Project](/assets/gitcord-bot.png)</a>
+<a href="/projects/discord-bots/gitcord-bot">![GitCord Bot Project](../../img/gitcord-bot.png)</a>

@@ -1,7 +1,7 @@
 ---
 title: Create Emoji Bot
 publishDate: 2022-09-26 00:00:00
-img: /assets/create-emoji-bot.png
+img: /src/img/create-emoji-bot.png
 img_alt: Four smiley faces with a purple background
 description: |
   Empower users to create their own Discord emoji with Create Emoji bot
@@ -26,4 +26,4 @@ Create Emoji Bot democratises creating Discord emoji by letting anyone create cu
 
 ## Screenshot
 
-![Create Emoji Bot Response](/assets/create-emoji-bot-response.png)
+![Create Emoji Bot Response](../../../img/create-emoji-bot-response.png)

@@ -1,7 +1,7 @@
 ---
 title: TT Rewatched
 publishDate: 2024-01-20 00:00:00
-img: /assets/tt-rewatched.png
+img: /src/img/tt-rewatched.png
 img_alt: An eye surrounded by a gold circle with a gray background
 description: |
   watchOS invasion and field office tracker for Toontown Rewritten
@@ -27,7 +27,7 @@ Find you're staring at your web browser more than the game itself? Get back into
 ## Screenshots
 
 <div class="flex">
-  <img src="/assets/tt-rewatched-home-screen.png" alt="TT Rewatched Home Screen" />
-  <img src="/assets/tt-rewatched-invasions-screen.png" alt="TT Invasions Screen" />
-  <img src="/assets/tt-rewatched-invasion-screen.png" alt="TT Rewatched - Invasion Screen"/>
+  <img src="/src/img/tt-rewatched-home-screen.png" alt="TT Rewatched Home Screen" />
+  <img src="/src/img/tt-rewatched-invasions-screen.png" alt="TT Invasions Screen" />
+  <img src="/src/img/tt-rewatched-invasion-screen.png" alt="TT Rewatched - Invasion Screen"/>
 </div>

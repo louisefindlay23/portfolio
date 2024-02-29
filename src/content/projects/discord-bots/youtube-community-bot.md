@@ -1,7 +1,7 @@
 ---
 title: YouTube Community Bot
 publishDate: 2022-11-12 00:00:00
-img: /assets/youtube-community-bot.jpg
+img: /src/img/youtube-community-bot.jpg
 img_alt: Red background with the words YouTube Community
 description: |
   Automatically post YouTube Community Posts to a Discord Server Channel with YouTube Community Bot.

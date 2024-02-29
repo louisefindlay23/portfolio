@@ -1,5 +1,8 @@
 ---
 import { Icon } from "astro-icon/components";
+import { Image } from "astro:assets";
+
+import faviconImage from "/src/img/favicon.png";
 
 const pathname = new URL(Astro.request.url).pathname;
 const currentPath = pathname.slice(1);
@@ -8,7 +11,7 @@ const currentPath = pathname.slice(1);
 <nav>
   <div class="menu-header">
     <a href="/" class="site-title">
-      <img src="/assets/favicon.png" alt="Louise Findlay" />
+      <Image src={faviconImage} alt="Louise Findlay" />
       Louise Findlay
     </a>
     <menu-button>

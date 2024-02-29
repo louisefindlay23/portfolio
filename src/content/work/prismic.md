@@ -1,7 +1,7 @@
 ---
 title: Technical Writer at Prismic
 publishDate: 2023-01-05 00:00:00
-img: /assets/prismic.png
+img: /src/img/prismic.png
 img_alt: Prismic logo on a blue background
 description: |
   Created the first learning objective and reduced the documentation user feedback backlog by 50%.
@@ -32,13 +32,13 @@ Developed several Next and Nuxt sites to create new documentation, test user fee
 
 ## Featured Articles
 
-<a href="https://prismic.io/docs/taxonomies-nextjs" target="_blank">![Create Taxonomies with Next.js](/assets/taxonomies-prismic.jpg)</a>
+<a href="https://prismic.io/docs/taxonomies-nextjs" target="_blank">![Create Taxonomies with Next.js](../../img/taxonomies-prismic.jpg)</a>
 
 Created a new how-to article for creating Taxonomies with Next.js and Prismic.
 
 Explained the complex process of how to create, fetch, route, and display an extensible taxonomy system in an easy to understand step-by-step format.
 
-<a href="https://prismic.io/docs/graphql-technical-reference" target="_blank">![GraphQL API Technical Reference](/assets/graphql-prismic.jpg)</a>
+<a href="https://prismic.io/docs/graphql-technical-reference" target="_blank">![GraphQL API Technical Reference](../../img/graphql-prismic.jpg)</a>
 
 Consolidated the previous GraphQL documentation into a single API reference.
 

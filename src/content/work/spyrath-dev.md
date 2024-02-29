@@ -1,7 +1,7 @@
 ---
 title: Freelance Web Developer at Spyrath Dev
 publishDate: 2019-09-02 00:00:00
-img: /assets/spyrath-dev.png
+img: /src/img/spyrath-dev.png
 img_alt: Dragon inside a browser window with an orange background
 description: |
   Designing, developing, and supporting WordPress and Shopify websites.
@@ -25,6 +25,6 @@ Publish guides to empower non-technical users to learn more about their websites
 
 ## Featured Projects
 
-<a href="/projects/websites/gowanlea-nurseries">![Gowanlea Nurseries](/assets/gowanlea-nurseries.jpg)</a>
+<a href="/projects/websites/gowanlea-nurseries">![Gowanlea Nurseries](../../img/gowanlea-nurseries.jpg)</a>
 
-<a href="/projects/websites/lasting-impact-academy">![Lasting Impact Academy](/assets/lasting-impact-academy.png)</a>
+<a href="/projects/websites/lasting-impact-academy">![Lasting Impact Academy](../../img/lasting-impact-academy.png)</a>

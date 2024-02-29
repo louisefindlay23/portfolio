@@ -1,7 +1,7 @@
 ---
 title: GitCord Bot
 publishDate: 2021-07-28 00:00:00
-img: /assets/gitcord-bot.png
+img: /src/img/gitcord-bot.png
 img_alt: A GitHub Octocat with a Discord logo inside it
 description: |
   The ultimate Discord Bot that helps you manage your GitHub activity from Discord.
@@ -30,4 +30,4 @@ I developed the GitHub API integration and bot commands to post comments on GitH
 
 ## Screenshot
 
-![GitCord Bot PR Comment](/assets/gitcord-bot-github-comment.png)
+![GitCord Bot PR Comment](../../../img/gitcord-bot-github-comment.png)

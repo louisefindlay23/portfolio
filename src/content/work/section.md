@@ -1,7 +1,7 @@
 ---
 title: Content Moderator at Section
 publishDate: 2020-06-02 00:00:00
-img: /assets/section.png
+img: /src/img/section.png
 img_alt: Section logo on a green background
 description: |
   Oversaw the entire publication process and onboarded new writers.
@@ -30,4 +30,4 @@ Became one of the first Content Moderators to oversee the entire publication pro
 
 Won the Kubernetes Hackathon.
 
-<a href="https://github.com/section-engineering-education/engineering-education" target="_blank">![EngEd Community Badges](/assets/enged-community-badges.png)</a>
+<a href="https://github.com/section-engineering-education/engineering-education" target="_blank">![EngEd Community Badges](../../img/enged-community-badges.png)</a>

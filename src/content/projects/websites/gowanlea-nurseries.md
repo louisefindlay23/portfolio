@@ -1,7 +1,7 @@
 ---
 title: Gowanlea Nurseries
 publishDate: 2023-10-25 00:00:00
-img: /assets/gowanlea-nurseries.jpg
+img: /src/img/gowanlea-nurseries.jpg
 img_alt: A field of pink flowers
 description: |
   Rebuilt the Gowanlea Nurseries Shopify store from the ground up using a new 2.0 theme
@@ -27,8 +27,8 @@ I integrated Fera.ai to incorporate their Facebook and Google My Business review
 
 ## Before
 
-![Gowanlea Nurseries Before](/assets/gowanlea-nurseries-before.png)
+![Gowanlea Nurseries Before](../../../img/gowanlea-nurseries-before.png)
 
 ## After
 
-<a href="https://gowanlea.uk" target="_blank">![Gowanlea Nuseries After](/assets/gowanlea-nurseries-after.jpeg)</a>
+<a href="https://gowanlea.uk" target="_blank">![Gowanlea Nuseries After](../../../img/gowanlea-nurseries-after.jpeg)</a>

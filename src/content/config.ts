@@ -1,3 +1,4 @@
+import { imageConfig } from "astro:assets";
 import { defineCollection, z } from "astro:content";
 
 const iconLinkSchema = z.object({
@@ -9,24 +10,24 @@ const iconLinkSchema = z.object({
 export const collections = {
   projects: defineCollection({
     type: "content",
-    schema: z.object({
+    schema: ({ image }) => z.object({
       title: z.string(),
       description: z.string(),
       publishDate: z.coerce.date(),
       tags: z.array(z.string()),
-      img: z.string(),
+      img: image(),
       img_alt: z.string().optional(),
       links: z.array(iconLinkSchema).optional(),
     }),
   }),
   work: defineCollection({
     type: "content",
-    schema: z.object({
+    schema: ({ image }) => z.object({
       title: z.string(),
       description: z.string(),
       publishDate: z.coerce.date(),
       tags: z.array(z.string()),
-      img: z.string(),
+      img: image(),
       img_alt: z.string().optional(),
       links: z.array(iconLinkSchema).optional(),
     }),
